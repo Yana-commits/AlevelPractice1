@@ -1,0 +1,13 @@
+C:\Users\Roman\source\repos\Adv2_Practise1\Adv2_Practise1\bin\Debug\Adv2_Practise1.exe.config
+C:\Users\Roman\source\repos\Adv2_Practise1\Adv2_Practise1\bin\Debug\Adv2_Practise1.exe
+C:\Users\Roman\source\repos\Adv2_Practise1\Adv2_Practise1\bin\Debug\Adv2_Practise1.pdb
+C:\Users\Roman\source\repos\Adv2_Practise1\Adv2_Practise1\obj\Debug\Adv2_Practise1.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\Adv2_Practise1\Adv2_Practise1\obj\Debug\Adv2_Practise1.exe
+C:\Users\Roman\source\repos\Adv2_Practise1\Adv2_Practise1\obj\Debug\Adv2_Practise1.pdb
+E:\A-level\Adv2_Practise1\Adv2_Practise1\bin\Debug\Adv2_Practise1.exe.config
+E:\A-level\Adv2_Practise1\Adv2_Practise1\bin\Debug\Adv2_Practise1.exe
+E:\A-level\Adv2_Practise1\Adv2_Practise1\bin\Debug\Adv2_Practise1.pdb
+E:\A-level\Adv2_Practise1\Adv2_Practise1\obj\Debug\Adv2_Practise1.csprojAssemblyReference.cache
+E:\A-level\Adv2_Practise1\Adv2_Practise1\obj\Debug\Adv2_Practise1.csproj.CoreCompileInputs.cache
+E:\A-level\Adv2_Practise1\Adv2_Practise1\obj\Debug\Adv2_Practise1.exe
+E:\A-level\Adv2_Practise1\Adv2_Practise1\obj\Debug\Adv2_Practise1.pdb
